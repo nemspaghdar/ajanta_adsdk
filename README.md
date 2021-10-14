@@ -14,7 +14,7 @@ Simple code
 	...
   
  > Step 2. Add the dependency
-  
+  ...
   dependencies {
 	        implementation 'com.github.nemspaghdar:ajanta_adsdk:Tag'
-	}
+	}...
