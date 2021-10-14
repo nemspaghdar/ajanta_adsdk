@@ -3,7 +3,7 @@
 # Simple code
 
 
-Step 1. Add the JitPack repository to your build file
+> Step 1. Add the JitPack repository to your build file
 ...
 	allprojects {
 		repositories {
@@ -13,7 +13,7 @@ Step 1. Add the JitPack repository to your build file
 	}
 	...
   
-  Step 2. Add the dependency
+ > Step 2. Add the dependency
   ...
   dependencies {
 	        implementation 'com.github.nemspaghdar:ajanta_adsdk:Tag'
